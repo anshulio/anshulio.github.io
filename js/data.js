@@ -35,14 +35,14 @@ const portfolioData = {
   projects: [
     {
       id: "pastebin",
-      title: "Pastebin",
+      title: "Snip",
       description:
         "A lightweight personal pastebin for storing and sharing code snippets and text, powered by Cloudflare Workers.",
 
       tags: ["Cloudflare Workers", "JavaScript", "KV Storage", "REST API"],
 
-      github: "https://github.com/anshulio/pastebin-worker",
-      demo: "https://pastebin.anshulraj.workers.dev",
+      github: "https://github.com/anshulio/snip",
+      demo: "https://pastebin.anshulraj.workers.dev/",
 
       featured: true
     },
