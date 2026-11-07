@@ -1,0 +1,21 @@
+{
+  "name": "anshulraj-portfolio",
+  "version": "1.0.0",
+  "description": "Minimalist developer portfolio for Anshul Raj",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "build": "node scripts/verify-build.js",
+    "preview": "npx serve . -l 3000",
+    "test": "node scripts/verify-build.js"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "minimalist",
+    "github-pages",
+    "dark-theme"
+  ],
+  "author": "Anshul Raj",
+  "license": "MIT"
+}
